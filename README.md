@@ -2,6 +2,12 @@
 
 This is a simple Flutter project built to learn and demonstrate basic UI widgets in Flutter. It features a home landing page and a destination detail page for Spiti Valley.
 
+## Screenshots
+
+| Home Screen | Details Screen |
+| :---: | :---: |
+| ![Home Screen](ScreenShot/screenshot_1.png) | ![Details Screen](ScreenShot/screenshot_2.png) |
+
 ## Widgets Used
 - **Scaffold**: For the main screen structure and background color.
 - **AppBar**: Used at the top of the detail screen for navigation and title.
